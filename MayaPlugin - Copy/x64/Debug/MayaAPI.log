@@ -1,0 +1,32 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppClean.targets(76,5): warning : Access to the path 'd:\project full folder 2\mayaplugin - copy\x64\debug\mayaapi.mll' is denied.
+  Unload Maya plugin before building
+  mayaRun.cpp
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(205): warning C4838: conversion from 'double' to 'float' requires a narrowing conversion
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(202): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(203): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(204): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(205): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(290): warning C4018: '<': signed/unsigned mismatch
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(292): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(293): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(294): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(329): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(462): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(476): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(498): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(501): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(538): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(548): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(479): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(507): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(551): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: see declaration of 'strcpy'
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(625): warning C4305: 'argument': truncation from 'double' to 'float'
+d:\project full folder 2\mayaplugin - copy\mayarun.cpp(639): warning C4018: '<': signed/unsigned mismatch
+     Creating library D:\Project Full Folder 2\MayaPlugin - Copy\x64\Debug\MayaAPI.lib and object D:\Project Full Folder 2\MayaPlugin - Copy\x64\Debug\MayaAPI.exp
+UD1447Test.lib(comLib.obj) : warning LNK4099: PDB 'UD1447Test.pdb' was not found with 'UD1447Test.lib(comLib.obj)' or at 'D:\Project Full Folder 2\MayaPlugin - Copy\x64\Debug\UD1447Test.pdb'; linking object as if no debug info
+  MayaAPI.vcxproj -> D:\Project Full Folder 2\MayaPlugin - Copy\x64\Debug\MayaAPI.mll
+  Load Plugin after build
